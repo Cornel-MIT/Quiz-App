@@ -19,12 +19,12 @@ const questions = [
     {
         question: "Does Ivory fall under Tembisa or Midrand?",
         options: ["Tembisa", "Midrand"],
-        correctAnswer: 2 
+        correctAnswer: 1 
     },
     {
         question: "Who are better drivers - men or women??",
         options: ["Men", "Women"],
-        correctAnswer: 2 + "Do not feel bad,  New data suggests women are better drivers than men" 
+        correctAnswer: 1  
     }
 ];
 
